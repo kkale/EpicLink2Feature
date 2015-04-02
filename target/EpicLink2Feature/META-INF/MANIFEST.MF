@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Rsrc-Class-Path: ./ rally-rest-api-2.1.1.jar httpclient-4.2.5.jar http
- core-4.2.4.jar commons-logging-1.1.1.jar commons-codec-1.6.jar gson-2
- .2.4.jar
-Class-Path: .
-Rsrc-Main-Class: com.rally.packlink.EpicLin2Feature
-Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
-
